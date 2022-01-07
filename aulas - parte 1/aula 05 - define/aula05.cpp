@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
     
     cout << pi <<"\n\n"; //Imprimindo a constante pi
 
-    canal //chamando o define canal onde está associando o comando cout. Nao colocar no final ";" para chamar o define.
+    canal //chamando o #define canal onde está associado o comando cout. Nao colocar no final ";" para chamar o #define.
 
 
 
