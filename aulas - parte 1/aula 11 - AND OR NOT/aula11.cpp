@@ -5,7 +5,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     /*
-    OPERADOR AND ==> representado em Linguagem C &&
+    OPERADOR AND ==> representado em Linguagem C++ &&
     Para o operador && retornar verdadeiro, todos os testes devem retornar verdadeiro
     X1      X2      X1 && X2
     0       0           0
@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
     1       0           0
     1       1           1 ==> Somente irá retornar verdadeiro se as operacoes forem verdadeiras
 
-    OPERADOR OR ==> reresentado em linguagem C ||
+    OPERADOR OR ==> reresentado em linguagem C++ ||
     Para o operador || retornar verdadeiro, pelo menos uma das operacoes tem que ser verdadeira
     X1      X2      X1 || X2
     0       0           0
@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
     1       0           1
     1       1           1
 
-    OPERADOR NOT ==> representado em linguagem C !
+    OPERADOR NOT ==> representado em linguagem C++ !
     Vai inverter um valor em um teste
     
     */
