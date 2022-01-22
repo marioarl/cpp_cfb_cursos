@@ -8,14 +8,18 @@ STACK - É uma estrutura de armazenamento de dados, como se fosse um vetor, só 
 
 O 1o. elemento a ser inserido, é o ultimo elemento a ser removido ou trabalhado
 
-__      __
-  |  7  |
-  |  6  |
-  |  5  |
-  |  4  |
-  |  3  |
-  |  2  |
-  |__1__|
+ENTRADA **   ***>SAIDA
+         *   *    
+         *   *
+         V   *
+      __      __
+        |  7  |
+        |  6  |
+        |  5  |
+        |  4  |
+        |  3  |
+        |  2  |
+        |__1__|
 
 */
 
